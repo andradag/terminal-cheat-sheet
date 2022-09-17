@@ -31,6 +31,11 @@ Create a new folder with the desired [FOLDER_NAME]. This occurs in your current 
 ```
 
 ```
+touch [FILE_NAME]
+Create a new file
+```
+
+```
 cp [FILE] [DUPLICATE_FILE]
 Make a copy of a file
 ```
